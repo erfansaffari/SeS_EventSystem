@@ -4,7 +4,7 @@ New Event System By SeS And My Team
 
 Hello everyone, this is an event system that is written and used to hold all kinds of events for you to share.
 
-
+Discord: https://discord.gg/keaVYZSTTe
 
 
 
