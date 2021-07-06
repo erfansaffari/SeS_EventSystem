@@ -1,8 +1,8 @@
 fx_version 'bodacious'
 game 'gta5'
 
-description 'New Event System By Faridz'
-author '<FaridZ/>#9360'
+description 'New Event System By SeS'
+author '<SeS/>#0001'
 version '1.0.0'
 
 server_scripts {
